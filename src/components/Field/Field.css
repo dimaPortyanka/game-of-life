@@ -1,0 +1,10 @@
+.cell {
+  width: 9px;
+  height: 9px;
+  margin: 1px;
+  background: silver;
+}
+
+.selected {
+  background: black;
+}
